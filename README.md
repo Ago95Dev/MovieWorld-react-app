@@ -1,5 +1,5 @@
 # MovieWorld-react-app
-![image](https://user-images.githubusercontent.com/65028567/234255133-e1d28e5d-9366-46b6-ba21-1623f217238e.png)
+![image](https://user-images.githubusercontent.com/65028567/234532295-31e6f966-10ab-4ac4-a167-03a26ede4b40.png)
 
 Movie app developed using React and the Open Movie Database API. The app allows users to search for new films by entering a request.
 
